@@ -68,8 +68,8 @@ def tik():
 
 
 back = 0
-berhasil = []
-cekpoint = []
+successfull = []
+checkpoint = []
 oks = []
 id = []
 listgrup = []
